@@ -1,3 +1,4 @@
+#!/bin/bash
 #include <stdio.h>
 /**
  * main - this is the main put function
